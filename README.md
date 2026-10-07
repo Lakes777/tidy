@@ -1,6 +1,6 @@
 # Tidy
 
-[![Testes](https://github.com/Lakes777/organizador-arquivos/actions/workflows/testes.yml/badge.svg)](https://github.com/Lakes777/organizador-arquivos/actions/workflows/testes.yml)
+[![Testes](https://github.com/Lakes777/tidy/actions/workflows/testes.yml/badge.svg)](https://github.com/Lakes777/tidy/actions/workflows/testes.yml)
 
 **Tidy · organizador de arquivos.** Ferramenta de linha de comando que organiza pastas bagunçadas, como a de Downloads, separando os arquivos em subpastas **por tipo** (Imagens, Documentos, Instaladores...) ou **por data** (2026/09). Feita em Python puro.
 
@@ -21,8 +21,8 @@
 Requer **Python 3.10+**. Não há dependências externas para usar o programa.
 
 ```bash
-git clone https://github.com/Lakes777/organizador-arquivos.git
-cd organizador-arquivos
+git clone https://github.com/Lakes777/tidy.git
+cd tidy
 ```
 
 ## Como usar
